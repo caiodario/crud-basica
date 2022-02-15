@@ -9,9 +9,9 @@ O projeto foi realizado para aperfeiçoamento e expansão dos conhecimentos em J
 ## Features
 
 - Criação de um novo cliente
-- Visualização dos clientes já criados
+- Visualização dos clientes
 - Edição dos registros
-- Exclusão do registro
+- Exclusão dos registros
 
 ## Techs
 
